@@ -5,7 +5,7 @@ The goal is to take raw business data, clean and model it, perform analysis, and
 
 ---
 
-## What this project shows
+## What This Project Shows
 - Working with **data cleaning and modeling**  
 - Using **SQL, Python, Excel and Power BI** together in a workflow  
 - Building **dashboards** that communicate key business metrics  
@@ -13,7 +13,16 @@ The goal is to take raw business data, clean and model it, perform analysis, and
 
 ---
 
-## Tools used
+## Project Status
+- Data exploration (EDA) completed
+- SQL analysis completed
+- Power BI dashboards (in progress)
+
+The repository is actively updated — You can follow the progress in the commit history.
+
+---
+
+## Tools Used
 - SQL  
 - Python  
 - Excel  
