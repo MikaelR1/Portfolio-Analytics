@@ -81,6 +81,7 @@ These transformations ensured consistency, performance, and accuracy across all 
 - Identifying top-selling products per customer segment (`v_top_products_per_customer`).  
 
 **Example SQL transformation:**
+```
 CREATE VIEW v_fact_sales AS
 SELECT
     oi.order_id,
@@ -93,7 +94,7 @@ SELECT
 FROM order_items AS oi
 JOIN orders AS o
   ON oi.order_id = o.order_id;
-"""
+```
 
 ---
 
@@ -168,7 +169,7 @@ It consists of four analytical pages — each focusing on a specific business di
 ---
 
 ## 7️⃣ Repository Structure
-
+```
 Portfolio-Analytics/
 │
 ├── data_raw/                  # Original Olist datasets
@@ -199,6 +200,7 @@ Portfolio-Analytics/
 │
 ├── .gitignore
 └── README.md
+```
 
 ---
 
