@@ -32,7 +32,7 @@ This project is a **portfolio showcase** of practical data analytics, combining 
 ---
 
 ## 🗂️ Repository Structure
-
+```
 Portfolio-Analytics/
 │
 ├── data_raw/ # Original Olist datasets
@@ -63,7 +63,7 @@ Portfolio-Analytics/
 │
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## 📈 Power BI Dashboards
